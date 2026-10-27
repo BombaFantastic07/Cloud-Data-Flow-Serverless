@@ -1,0 +1,3 @@
+# boto3 is available in the AWS Lambda Python runtime.
+# For local development/testing, install:
+boto3>=1.34,<2.0
